@@ -6,8 +6,8 @@ body {
     padding: 0;
 }
 
-.container {
-    max-width: 1200px;
+ head {
+    max-width: 120px;
     margin: 0 auto;
     padding: 20px;
 }
